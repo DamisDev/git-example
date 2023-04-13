@@ -1,4 +1,5 @@
 Ciao, mondo!
 Ciao, Pluto!
+Nuova riga inserita prima in feature_x
 
 Modifica del branch feature_x
